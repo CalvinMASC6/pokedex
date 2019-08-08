@@ -1,8 +1,8 @@
 body{
     background-image: url(https://cdn.pixabay.com/photo/2016/07/15/16/36/pokemon-1519637_1280.jpg);
-    -webkit-text-fill-color:rgba(187, 33, 13, 0.959);
     text-align: center;
-    font-size: 110%;
+    max-width: auto;
+    height: auto;
 }
 ul{
     list-style: none;
